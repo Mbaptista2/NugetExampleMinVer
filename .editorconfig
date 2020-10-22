@@ -443,3 +443,6 @@ dotnet_diagnostic.SA1633.severity = none
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 # OTHER DEALINGS IN THE SOFTWARE.
 ##########################################
+
+# SA1600: Elements should be documented
+dotnet_diagnostic.SA1600.severity = none
