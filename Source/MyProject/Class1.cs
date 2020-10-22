@@ -10,6 +10,6 @@ namespace MyProject
         /// <summary>
         /// Gets or sets get.
         /// </summary>
-        public int MyProperty { get; set; }
+        public int MyPropertyx { get; set; }
     }
 }
